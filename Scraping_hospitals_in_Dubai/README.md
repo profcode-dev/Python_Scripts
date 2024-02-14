@@ -11,7 +11,7 @@ This Python script utilizes Selenium to scrape a list of hospitals in Dubai from
 ## Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/dubai-hospitals-scraper.git
+   git clone https://github.com/profcode-dev/Python_Scripts/tree/main/Scraping_hospitals_in_Dubai
    cd dubai-hospitals-scraper
 
 2. pip install -r requirements.txt
